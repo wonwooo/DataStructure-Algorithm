@@ -1,0 +1,1 @@
+#Edge를 vertex에서 시점으로 linked list의 형태로 저장하는 Graph
